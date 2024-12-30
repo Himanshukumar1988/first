@@ -1,2 +1,2 @@
 Author:himanshu kumar singh
-emai:himanshukumar.it@gmail.com
+email:himanshukumar.it@gmail.com
